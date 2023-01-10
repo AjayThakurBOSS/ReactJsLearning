@@ -1,0 +1,9 @@
+.left{
+    background-color: chocolate;
+    height: 80vh;
+    width: 20vw;
+    align-self: flex-start;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+}

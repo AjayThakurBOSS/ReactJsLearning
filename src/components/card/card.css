@@ -1,0 +1,18 @@
+.containerCart{
+    display: flex;
+    width: 100vw;
+    flex-grow: initial;
+    background-color: antiquewhite;
+}
+
+.cardd {
+    border: 2px solid red;
+    width: 65px;
+    margin: 5px;
+    align-items: center;
+   
+}
+
+.cardd p{
+    color:black
+}

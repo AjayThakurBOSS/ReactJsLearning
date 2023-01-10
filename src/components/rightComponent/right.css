@@ -1,0 +1,10 @@
+.right{
+    background-color: chocolate;
+    height: 80vh;
+    width: 20vw;
+   float:right;
+   align-content: flex-end;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
